@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="redis01" />
+        <module name="redis03" />
         <module name="redis02" />
+        <module name="redis01" />
       </profile>
     </annotationProcessing>
   </component>

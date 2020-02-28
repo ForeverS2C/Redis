@@ -15,3 +15,8 @@
 - ZSetOperations：zset类型数据操作
 - HashOperations：针对map类型的数据操作
 - ListOperations：针对list类型的数据操作
+
+# redis03
+利用redis代替mybatis的二级缓存
+
+# redis03
