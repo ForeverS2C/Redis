@@ -12,6 +12,7 @@
         <module>redis01</module>
         <module>redis02</module>
         <module>redis03</module>
+        <module>redis04</module>
     </modules>
 
     <parent>
